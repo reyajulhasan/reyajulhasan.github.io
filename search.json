@@ -18,6 +18,6 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "import numpy as np\nimport matplotlib.pyplot as plt\nx = np.random.rand(100)\ny = x**2  \n\nplt.plot(x,y)\nplt.show()"
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\nx = np.random.rand(100)\ny = x**2  \n\nplt.plot(x,y)"
   }
 ]
