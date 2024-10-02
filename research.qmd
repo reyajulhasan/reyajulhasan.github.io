@@ -1,0 +1,16 @@
+---
+title: Research
+--- 
+
+
+```{python}
+#| code-fold: false
+import numpy as np
+import matplotlib.pyplot as plt
+x = np.random.rand(100)
+y = x**2  
+
+plt.plot(x,y)
+
+```  
+

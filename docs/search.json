@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reyajul Hasan Leon",
+    "section": "",
+    "text": "Hello welcome to my page"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\nx = np.random.rand(100)\ny = x**2  \n\nplt.plot(x,y)"
+  }
+]

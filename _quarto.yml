@@ -1,13 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
+  title: "Reyajul Hasan Leon"
+  favicon: "/_assets/images/logofsu.png"
+  open-graph: true
   navbar:
-    left:
+    background: "#782F40"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: research.qmd
+        text: Research
 
 format:
   html:
